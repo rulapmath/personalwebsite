@@ -2,7 +2,7 @@
 <img src="profileimage.jpeg" alt="Profile Image" width="300"/>
 
 Hi, I'm Ryland Gross. Welcome to my personal (non-professional) space on the web. I'm interested in math, stats, and just about everything to do with geography and language. 
-
+ 
 ## What am I doing right now?
 
 Grinding Stat111!
