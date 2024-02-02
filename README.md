@@ -1,4 +1,3 @@
-## Ryland's Website
 
 <img src="profileimage.jpeg" alt="Profile Image" width="300"/>
 
